@@ -1,0 +1,19 @@
+out/
+bin/
+
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+.idea/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### HarzMind Code ###
+hzmind/out/
+hzmind.log
